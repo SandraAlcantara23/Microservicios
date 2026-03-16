@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+mongo1_data/
+mongo2_data/
+mongo3_data/
